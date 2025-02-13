@@ -10,14 +10,6 @@ A completely Responsive Multiplayer TicTacToe Game- Works on Android, iOS, Web &
 - Responsive Glow Themed UI
 - Cross Platform Game
 
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/Aut-wfXacXg)
-
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/flutter-multiplayer-tictactoe/blob/master/screenshot.png" alt="Youtube Tutorial Image">
-</p>
-
-
 ## Installation
 After cloning this repository, migrate to ```flutter-multiplayer-tictactoe``` folder.
 
@@ -56,10 +48,6 @@ flutter run // After selecting the device you want to test on
 **Server**: Node.js, Express, Socket.io, Mongoose, MongoDB
 
 **Client**: Flutter, Provider
-    
-## Feedback
-
-If you have any feedback, please reach out to me at namanrivaan@gmail.com or on Instagram at optimalcoding.
 
 # Multiplayer-tic-tac-toe-game
 # Multiplayer-tic-tac-toe-game
