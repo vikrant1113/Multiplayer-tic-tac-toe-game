@@ -48,6 +48,3 @@ flutter run // After selecting the device you want to test on
 **Server**: Node.js, Express, Socket.io, Mongoose, MongoDB
 
 **Client**: Flutter, Provider
-
-# Multiplayer-tic-tac-toe-game
-# Multiplayer-tic-tac-toe-game
